@@ -1,0 +1,16 @@
+.log
+.checkstyle
+*.*~
+*.tmp
+
+# idea
+*.iml
+.idea/
+
+# eclipse
+.classpath
+.project
+.settings
+
+out/
+
